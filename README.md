@@ -1,2 +1,2 @@
 # Birthday-Card
-Make my first small web development project.
+I made my first small web development project using HTML.
